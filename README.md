@@ -15,5 +15,3 @@ Aqui vocês podem colocar os objetivos
 - Objetivo 2
 
 - Objetivo 3
- 
-- Objetivo 4
