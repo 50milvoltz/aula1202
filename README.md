@@ -8,7 +8,7 @@ Aqui vocês podem especifficar o problema ou a situação que motiva a criação
 Aqui vocês podem colocar o público, ou melhor, pra quem o produto é direcionado
 
 ## OBJETIVO
-Aqui vocês podem colocar os obketivos
+Aqui vocês podem colocar os objetivos
 
 - Objetivo 1
 
