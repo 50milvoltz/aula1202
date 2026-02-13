@@ -14,4 +14,4 @@ Selecione as opções aplicáveis:
 - [ ] Outro (descrever
 
 ## Issue Relacionada
-Closes #<numero_da_issue>
+Closes # <numero_da_issue>
